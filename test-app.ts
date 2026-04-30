@@ -26,7 +26,7 @@ async function testApp() {
   try {
     // Test 1: Page loads
     console.log('📋 Test 1: Page Loading...');
-    const response = await page.goto('http://localhost:3001', { waitUntil: 'networkidle', timeout: 30000 });
+    const response = await page.goto('http://localhost:3000', { waitUntil: 'networkidle', timeout: 30000 });
     console.log(`   Status: ${response?.status() || 'OK'}`);
     
     // Test 2: Page title
