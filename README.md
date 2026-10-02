@@ -558,3 +558,9 @@ For support, please:
 <p align="center">
   <strong>Built with ❤️ using Next.js, React, and Tailwind CSS</strong>
 </p>
+
+---
+
+<p align="center">
+  <strong>Built by <a href="https://github.com/girishlade111">Girish Lade</a></strong> · <a href="https://ladestack.in">ladestack.in</a>
+</p>
